@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=pengguanjun&hide=contribs&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengguanjun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Visitor Count](https://profile-counter.glitch.me/pengguanjun/count.svg)
